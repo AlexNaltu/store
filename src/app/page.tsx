@@ -1,7 +1,7 @@
 import Image from "next/image";
 import MaxWidthWrapper from "./components/MaxWidthWrapper";
 import Link from "next/link";
-import { Button, buttonVariants } from "@/components/ui/button";
+import { Button, buttonVariants } from "@/app/components/ui/button";
 import { ArrowDownIcon, CheckCircle, Leaf } from "lucide-react";
 
 export default function Home() {
